@@ -1,0 +1,19 @@
+{
+  "Name": "Reinaldo",
+  "age": 25,
+  "jurusan": "Teknik Informatika",
+  "NIM": "12345679",
+  "Semester": 1,
+  "IsZomblo": false,
+  "Matakuliah": [
+    {
+      "nama": "PBO"
+    },
+    {
+      "nama": "Agama"
+    },
+    {
+      "nama": "Bahasa"
+    }
+  ]
+}
