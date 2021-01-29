@@ -1,0 +1,26 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "first_air_date": "2018-04-20",
+      "genre_ids": [
+        18,
+        10759
+      ],
+      "id": 86790,
+      "name": "Naruto Hichou",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "鳴門秘帖",
+      "overview": "Norizuki Gennojo, a commander of the Shogunate’s troops, sets out on a journey to train in swordplay. In that time, Koka Yoami, the father of his betrothed Chie, receives a special mission and goes to Awa Tokushima to search for the secret records of Naruto in which a pledge to overthrow the shogunate is sealed with blood. He is never heard of again. 10 years later, Gennojo returns to Edo as a wandering monk and in despair about his swordsmanship. He is slashed by Sekiya Magobei but survives because of the quick wits of a female pickpocket Mikaeri Otsuna. Gennojo gets entangled in conflict surrounding the secret records of Naruto. He and Otsuna try to infiltrate Awa Tokushima in order to obtain the secret records and face continuous attacks by assassins on the way there.",
+      "popularity": 36.443,
+      "poster_path": "/jd5BBhwCjbAD8lJKReaTWBLAbXC.jpg",
+      "vote_average": 5,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 5
+}
